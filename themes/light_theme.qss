@@ -1,0 +1,30 @@
+QMainWindow {
+    background-color: white;
+}
+QToolBar {
+    background: #f0f0f0;
+}
+QTreeView {
+    background: #f0f0f0;
+}
+QTableView {
+    background: #ffffff;
+}
+QMenuBar {
+    background-color: #f0f0f0;
+    color: black;
+}
+QMenuBar::item {
+    background-color: #f0f0f0;
+    color: black;
+}
+QMenuBar::item:selected {
+    background-color: #e0e0e0;
+}
+QMenu {
+    background-color: #f0f0f0;
+    color: black;
+}
+QMenu::item:selected {
+    background-color: #e0e0e0;
+}
